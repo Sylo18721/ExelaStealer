@@ -88,10 +88,6 @@
 <h2 id="additional">Additional ℹ️</h2>
 <p>- Sends all files to your Discord webhook in beautiful embeds and a structured zip file<br>- Anti-Debug</p>
 
-<!-- Notes Section -->
-<h2 id="notes">Note's 📢</h2>
-<p>- If you have any issues or need support with this project, you can contact me via <a href="https://t.me/quicaxd">Telegram</a>:speech_balloon:</p>
-
 
 <!-- Screenshots Section -->
 <h2 id="screenshots">Screenshots 📸</h2>
