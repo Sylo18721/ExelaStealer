@@ -8,7 +8,7 @@
 <!-- Content -->
 <h1 id="exela-stealer">Exela Stealer</h1>
 <p>Exela Stealer, a powerful and feature-rich tool, offers the following functionalities:<br>
-   <a href="https://discord.gg/NkKgYxBQCp">Telegram Adress</a> - Join our Discord Server for the latest developments
+   <a href="https://discord.gg/NkKgYxBQCp">Discord Server</a> - Join our Discord Server for the latest developments
 </p>
 
 <!-- Features Section -->
